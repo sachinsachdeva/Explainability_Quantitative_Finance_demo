@@ -16,7 +16,7 @@ This demo showcases how a Large Language Model (LLM) agent can orchestrate tools
 
 ## Setup
 
-1. Clone or download the gist.
+1. Clone or download the repo.
 2. Install required Python packages:
 
    ```bash
